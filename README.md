@@ -1,2 +1,2 @@
 # cli-demo
-仿vue-cli
+cli工具练习
